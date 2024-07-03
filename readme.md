@@ -1,5 +1,5 @@
+判断2d平面两多边形相交的情况
 polygons_intersect project/
-                        ├──CMakeLists
                         │
                         │
                         ├── include/
